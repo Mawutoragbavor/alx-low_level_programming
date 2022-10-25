@@ -1,1 +1,1 @@
-putchar
+C Functions nested loops
